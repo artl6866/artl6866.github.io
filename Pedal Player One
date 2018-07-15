@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <!--This is where we put instructions to the browser, that we don't want the user to see -->
+        <title>Pedal Player One</title>
+    </head>
+    <body>
+        <!--This is where we put things that we want to show up in the browser window--!>
+        <header>
+        
+        </header>
+        <nav>
+        
+        </nav>
+        <section>
+            <p>Save the Penguins!
+            
+            
+            </p>
+        
+        </section>
+        <footer>
+        
+        </footer>
+
+
+    </body>
+</html>
